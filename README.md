@@ -18,7 +18,7 @@ con reels que pasaron de 2.700 y 3.300 vistas. Hoy gestiona dos páginas (conten
 | **Guiones** | Almacén de guiones por categoría (reflexiones, curiosidades, historias…), elegidos según el rendimiento de cada formato. |
 | **Producción** | Voz neural, imágenes por escena, subtítulos animados, titular "gancho" en los primeros 3 s, música y portada. Codifica con aceleración por GPU (Intel QuickSync). |
 | **Noticias** | Lee 12 medios dominicanos e internacionales (RSS), agrupa la misma noticia en varias fuentes, la redacta con IA **verificando que las cifras salgan de las fuentes**, busca fotos con licencia libre y la monta estilo noticiero. Cola en orden de llegada y caducidad. |
-| **Clips de directos y videos** | Graba tramos de transmisiones en vivo, transcribe y la IA elige los mejores momentos. Solo usa fuentes con licencia que lo permita y da créditos. |
+| **Clips de directos y videos** | Graba tramos de transmisiones en vivo o toma videos con licencia Creative Commons, transcribe el audio y la IA elige los mejores momentos, siempre con créditos a la fuente. |
 | **Publicación** | Sube a Meta Business Suite con un navegador automatizado: horarios, límite diario, nunca dos seguidos en la misma página, reintentos y capturas si algo falla. |
 | **Estadísticas** | Lee las métricas de cada reel (vistas, retención, interacciones) y ajusta qué formatos producir más. |
 | **Modo nocturno** | Corre oculto en segundo plano, se recupera solo de cortes de internet y de errores de la IA. |
